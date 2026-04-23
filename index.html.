@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primera web</title>
+</head>
+<body>
+
+    <h1>Hola, soy Chavez Chamay Keily Neitaly</h1>
+
+    <p><strong>Programa de Estudio:</strong> Arquitectura de Plataformas de TI</p>
+    <p><strong>Institución:</strong> IESTP "Guadalupe"</p>
+    <p><strong>Fecha:</strong> 23 de abril de 2026</p>
+
+    <hr>
+
+    <h2>Sobre mí</h2>
+    <p>Soy estudiante de Arquitectura de Plataformas de TI en el IESTP Guadalupe. Me interesa la tecnología y estoy aprendiendo a desarrollar páginas web utilizando HTML.</p>
+
+</body>
+</html>
